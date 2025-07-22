@@ -5,7 +5,7 @@ A generative AI chatbot built with [AWS PartyRock](https://partyrock.aws/) that 
 ---
 
 ## 🌐 Try It Live
-👉 [Launch Yoda's Wise Whispers on PartyRock](https://partyrock.aws/YOUR-UNIQUE-LINK-HERE)
+👉 [Launch Yoda's Wise Whispers on PartyRock](https://partyrock.aws/u/evankAI/vUToA-lb9/Yoda's-Wise-Whispers)
 
 ---
 
